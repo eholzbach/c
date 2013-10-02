@@ -1,7 +1,6 @@
 /*
  * check_mountpoint.c
- * to see if mount point is mounted
- * not for use with devices or /
+ * nrpe check to see if mount point is mounted
  *
  * usage: check_mountpoint /tmp /blah /whatever
  */
